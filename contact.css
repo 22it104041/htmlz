@@ -1,0 +1,14 @@
+*{
+    background: rgb(red, green, blue);
+    background: linear-gradient(90deg,rgb(223, 228, 224)0%,rgb(195, 209, 3)35%,rgb(212, 8, 8)100%);
+}
+h1{
+    text-align: center;
+    color: rgb(6, 6, 6);
+    font-style: italic;
+}
+p{
+    text-align: center;
+    color: rgb(1, 1, 7);
+    font-style: italic;
+}
